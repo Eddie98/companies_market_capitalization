@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/data/models/companies_market_capitalization_model.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/pages/widgets/list_tile.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/data/models/companies_market_capitalization_model.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/pages/widgets/list_tile.dart';
 import 'package:flutter/material.dart';
 
 class CompaniesMarketCapitalizationPage extends StatelessWidget {

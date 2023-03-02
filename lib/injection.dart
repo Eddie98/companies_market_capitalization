@@ -1,7 +1,7 @@
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/data/datasources/companies_market_capitalization_data_source.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/data/repositories/companies_market_capitalization_repository_impl.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/domain/repositories/companies_market_capitalization_repository.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/bloc/companies_market_capitalization_bloc.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/data/datasources/companies_market_capitalization_data_source.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/data/repositories/companies_market_capitalization_repository_impl.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/domain/repositories/companies_market_capitalization_repository.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/bloc/companies_market_capitalization_bloc.dart';
 import 'package:get_it/get_it.dart';
 
 import 'package:http/http.dart' as http;

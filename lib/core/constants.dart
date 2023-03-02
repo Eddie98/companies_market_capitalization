@@ -1,4 +1,4 @@
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/domain/entities/company_name_entity.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/domain/entities/company_name_entity.dart';
 import 'package:flutter/material.dart';
 
 const String baseUrl = 'https://www.alphavantage.co/query';

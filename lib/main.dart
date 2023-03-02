@@ -1,5 +1,5 @@
 import 'package:companies_market_capitalization/core/routes.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/bloc/companies_market_capitalization_bloc.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/bloc/companies_market_capitalization_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

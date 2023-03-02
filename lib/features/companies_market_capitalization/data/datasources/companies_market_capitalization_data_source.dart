@@ -1,10 +1,10 @@
 import 'dart:convert';
 
 import 'package:companies_market_capitalization/core/constants.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/data/models/companies_market_capitalization_model.dart';
 import 'package:http/http.dart' as http;
 
 import '../../../../core/error/exceptions.dart';
+import '../models/companies_market_capitalization_model.dart';
 
 abstract class CompaniesMarketCapitalizationRemoteDataSource {
   Future<CompanyDataModel> getCompanyData({

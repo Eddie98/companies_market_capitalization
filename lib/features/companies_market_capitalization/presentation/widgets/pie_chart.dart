@@ -1,8 +1,8 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:companies_market_capitalization/core/constants.dart';
 import 'package:companies_market_capitalization/core/routes.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/data/models/companies_market_capitalization_model.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/widgets/indicator.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/data/models/companies_market_capitalization_model.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/widgets/indicator.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 

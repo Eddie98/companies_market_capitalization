@@ -1,7 +1,7 @@
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/bloc/companies_market_capitalization_bloc.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/widgets/errors.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/widgets/loading.dart';
-import 'package:companies_market_capitalization/features/compamies_market_capitalization/presentation/widgets/pie_chart.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/bloc/companies_market_capitalization_bloc.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/widgets/errors.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/widgets/loading.dart';
+import 'package:companies_market_capitalization/features/companies_market_capitalization/presentation/widgets/pie_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
